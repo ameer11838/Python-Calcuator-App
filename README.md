@@ -9,7 +9,7 @@ It is just a a basic calculator GUI built with Python's 'tkinter' library. Suppo
 - Clear and evaluate buttons
 - Handles basic arithmetic operations
 
-
+Currently working on adding new features such as dark mode and other features as of now. 
 You need: Python 3.x installed
 
 
